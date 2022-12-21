@@ -98,6 +98,7 @@ No.2
 
 ## Output
 
+<img src= "https://github.com/Anggag20/UAS_DASPROG_SMT1/blob/main/uasdasprog1.jpg">
 No.1
 <br>masukkan banyak baris : 3
 <br>masukkan banyak kolom : 2
