@@ -10,13 +10,13 @@ No.1 Adalah tugas dasprog buat bagaimana kita untuk mencari nilai menggunakan ar
 No.2 Adalah tugas dasprog untuk mencari nilai deret bilangan yang tidak habis di bagi 3,5,7 menggunakan array 2 dimensi.
 ## Source Code
 
-No.1
-#include <iostream>
-#include <conio.h>
-using namespace std;
+	No.1
+	#include <iostream>
+	#include <conio.h>
+	using namespace std;
 
-int main()
-{
+	int main()
+	{
 	int b,k;
     cout << "masukkan banyak baris : ";cin >> b;
     cout << "masukkan banyak kolom : ";cin >> k;
@@ -50,6 +50,9 @@ int main()
         }
         cout << endl;
     }
+    getch();         
+    return 0;
+	}
   
   No.2
 #include <iostream>
@@ -88,11 +91,7 @@ int main()
     }
     getch();
     return 0;
-}
-     
-    getch();         
-    return 0;
-}
+	}
 
 ## Output
 
