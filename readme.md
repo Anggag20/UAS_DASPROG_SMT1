@@ -118,7 +118,7 @@ No.1
 <br>2 4 6
   
   
-  
+<img src = "https://github.com/Anggag20/UAS_DASPROG_SMT1/blob/main/uasdasprog2.jpg">
 <br>No.2  
 <br>masukkan jumlah baris : 3
 <br>masukkan jumlah kolom : 2
