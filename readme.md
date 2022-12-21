@@ -97,7 +97,7 @@ No.2
 	}
 
 ## Output
-<br>No.1
+<br>No.1 <br>
 <img src= "https://github.com/Anggag20/UAS_DASPROG_SMT1/blob/main/uasdasprog1.jpg">
 <br>masukkan banyak baris : 3
 <br>masukkan banyak kolom : 2
@@ -116,7 +116,7 @@ No.2
 <br>1 3 5
 <br>2 4 6
   
- <br>No.2 
+ <br>No.2 <br>
 <img src = "https://github.com/Anggag20/UAS_DASPROG_SMT1/blob/main/uasdasprog2.jpg">  
 <br>masukkan jumlah baris : 3
 <br>masukkan jumlah kolom : 2
