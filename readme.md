@@ -5,16 +5,19 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-No.1 Adalah tugas dasprog buat bagaimana kita untuk mencari nilai menggunakan array 2 dimensi dngan dibalikannya yg semulanya nilai baris dibalik menjadi dikolom dan nilai kolom mejadi dibaris.
+No.1 
+<br>Adalah tugas dasprog buat bagaimana kita untuk mencari nilai menggunakan array 2 dimensi dngan dibalikannya yg semulanya nilai baris dibalik menjadi dikolom dan nilai kolom mejadi dibaris.
 
-No.2 Adalah tugas dasprog untuk mencari nilai deret bilangan yang tidak habis di bagi 3,5,7 menggunakan array 2 dimensi.
+No.2
+<br>Adalah tugas dasprog untuk mencari nilai deret bilangan yang tidak habis di bagi 3,5,7 menggunakan array 2 dimensi.
 ## Source Code
 
-	No.1
+No.1
+<br>
+
 	#include <iostream>
 	#include <conio.h>
 	using namespace std;
-
 	int main()
 	{
 	int b,k;
@@ -54,14 +57,14 @@ No.2 Adalah tugas dasprog untuk mencari nilai deret bilangan yang tidak habis di
     return 0;
 	}
   
-  No.2
-#include <iostream>
-#include <conio.h>
-using namespace std;
-
-int main()
-{
-
+No.2
+	<br>
+	
+	#include <iostream>
+	#include <conio.h>
+	using namespace std;
+	int main()
+	{
     int array[3][3], baris, kolom;
     cout << "masukkan jumlah baris : ";cin >> baris;
     cout << "masukkan jumlah kolom : ";cin >> kolom;
@@ -96,38 +99,38 @@ int main()
 ## Output
 
 No.1
-masukkan banyak baris : 3
-masukkan banyak kolom : 2
-masukkan nilai :
-baris ke-1 kolom ke-1 : 1
-baris ke-1 kolom ke-2 : 2
-baris ke-2 kolom ke-1 : 3
-baris ke-2 kolom ke-2 : 4
-baris ke-3 kolom ke-1 : 5
-baris ke-3 kolom ke-2 : 6
-bentuk awal :
-1 2
-3 4
-5 6
-bentuk akhir :
-1 3 5
-2 4 6
+<br>masukkan banyak baris : 3
+<br>masukkan banyak kolom : 2
+<br>masukkan nilai :
+<br>baris ke-1 kolom ke-1 : 1
+<br>baris ke-1 kolom ke-2 : 2
+<br>baris ke-2 kolom ke-1 : 3
+<br>baris ke-2 kolom ke-2 : 4
+<br>baris ke-3 kolom ke-1 : 5
+<br>baris ke-3 kolom ke-2 : 6
+<br>bentuk awal :
+<br>1 2
+<br>3 4
+<br>5 6
+<br>bentuk akhir :
+<br>1 3 5
+<br>2 4 6
   
   
   
-No.2  
-masukkan jumlah baris : 3
-masukkan jumlah kolom : 2
-masukkan nilai :
-masukkan nilai baris ke-1 kolom ke-1 : 2
-masukkan nilai baris ke-1 kolom ke-2 : 4
-masukkan nilai baris ke-2 kolom ke-1 : 7
-masukkan nilai baris ke-2 kolom ke-2 : 8
-masukkan nilai baris ke-3 kolom ke-1 : 9
-masukkan nilai baris ke-3 kolom ke-2 : 12
-nilai awal :
-2 4
-7 8
-9 12
-nilai akhir :
-2 4 8
+<br>No.2  
+<br>masukkan jumlah baris : 3
+<br>masukkan jumlah kolom : 2
+<br>masukkan nilai :
+<br>masukkan nilai baris ke-1 kolom ke-1 : 2
+<br>masukkan nilai baris ke-1 kolom ke-2 : 4
+<br>masukkan nilai baris ke-2 kolom ke-1 : 7
+<br>masukkan nilai baris ke-2 kolom ke-2 : 8
+<br>masukkan nilai baris ke-3 kolom ke-1 : 9
+<br>masukkan nilai baris ke-3 kolom ke-2 : 12
+<br>nilai awal :
+<br>2 4
+<br>7 8
+<br>9 12
+<br>nilai akhir :
+<br>2 4 8
