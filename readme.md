@@ -99,37 +99,8 @@ No.2
 ## Output
 <br>No.1 <br>
 <img src= "https://github.com/Anggag20/UAS_DASPROG_SMT1/blob/main/uasdasprog1.jpg">
-<br>masukkan banyak baris : 3
-<br>masukkan banyak kolom : 2
-<br>masukkan nilai :
-<br>baris ke-1 kolom ke-1 : 1
-<br>baris ke-1 kolom ke-2 : 2
-<br>baris ke-2 kolom ke-1 : 3
-<br>baris ke-2 kolom ke-2 : 4
-<br>baris ke-3 kolom ke-1 : 5
-<br>baris ke-3 kolom ke-2 : 6
-<br>bentuk awal :
-<br>1 2
-<br>3 4
-<br>5 6
-<br>bentuk akhir :
-<br>1 3 5
-<br>2 4 6
+
   
  <br>No.2 <br>
 <img src = "https://github.com/Anggag20/UAS_DASPROG_SMT1/blob/main/uasdasprog2.jpg">  
-<br>masukkan jumlah baris : 3
-<br>masukkan jumlah kolom : 2
-<br>masukkan nilai :
-<br>masukkan nilai baris ke-1 kolom ke-1 : 2
-<br>masukkan nilai baris ke-1 kolom ke-2 : 4
-<br>masukkan nilai baris ke-2 kolom ke-1 : 7
-<br>masukkan nilai baris ke-2 kolom ke-2 : 8
-<br>masukkan nilai baris ke-3 kolom ke-1 : 9
-<br>masukkan nilai baris ke-3 kolom ke-2 : 12
-<br>nilai awal :
-<br>2 4
-<br>7 8
-<br>9 12
-<br>nilai akhir :
-<br>2 4 8
+
